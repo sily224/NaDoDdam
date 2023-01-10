@@ -16,34 +16,7 @@
 
 ## ✅ 시연 영상
 
-<details><summary>회원가입, 로그인</summary>
-![로그인_회원가입](https://user-images.githubusercontent.com/84730198/211617428-af3c1189-bd05-4b52-be38-54df2b160913.gif)
-</details>
-
-<details><summary>홈화면 - 무한스크롤, 찜하기</summary>
-![홈_찜하기](https://user-images.githubusercontent.com/84730198/211617564-93bfa184-a936-4374-89fc-29e65a8d5178.gif)
-</details>
-
-<details><summary>일반 회원 - 예약&리뷰 CRUD</summary>
-![일반회원_예약CRUD_리뷰CRUD](https://user-images.githubusercontent.com/84730198/211617629-6ef9c440-aaa2-4bf7-b24d-96a9646bc6fa.gif)
-</details>
-
-<details><summary>일반 회원 - 회원 정보 RUD</summary>
-![일반회원_회원정보RUD](https://user-images.githubusercontent.com/84730198/211617674-ff824e94-d4d3-43d9-9237-5ac907d8334e.gif)
-6fa.gif)
-</details>
-
-<details><summary>농장 회원 - 농장 정보 RUD</summary>
-![농장주_농장정보CRUD](https://user-images.githubusercontent.com/84730198/211617771-32777257-317c-4002-a94f-fe1c79d5ec93.gif)
-</details>
-
-<details><summary>농장 회원 - 체험시간 CRUD</summary>
-![농장주_체험시간표CRUD_1_](https://user-images.githubusercontent.com/84730198/211617832-c0c86a48-f991-4db6-a9f1-ccaef1128769.gif)
-</details>
-
-<details><summary>농장 회원 - 예약 CRUD & 후기 R</summary>
-![농장주_예약RUD_후기R](https://user-images.githubusercontent.com/84730198/211617969-0e5ca93c-6583-49a2-83ef-a300e358130d.gif)
-</details>
+https://youtu.be/X3ZU9g-Nu1Y
 
 <br />
 
